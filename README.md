@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laiz-in
-- into DS | ML | AI | Py
+- 
 -
 
 <!---
